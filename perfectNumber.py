@@ -18,7 +18,7 @@ def perfectNumber (x):
     sum_of_divisors = sum(divisors(x)) 
 
         #set the result variable to be True
-    if sum_divisors == x:
+    if sum_of_divisors == x:
             result = True
 
     #return the result variable
